@@ -22,6 +22,11 @@
     color: white;
     border: rgb(71, 104, 201);
 }
+.btn-dw:hover{
+    cursor: pointer;
+    width: 155px;
+    height: 45px;
+}
 .fa{  
     padding: 8px;  
     text-align: center;  
@@ -310,4 +315,11 @@ a{
 }
 .project_box>div>a>b{
     color: rgb(71, 104, 201);
+}
+.project_box>div>a:hover{
+    color: grey;
+}
+.project_box>div>a>b:hover{
+    color: grey;
+    font-size: 18px;
 }
