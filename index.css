@@ -305,3 +305,10 @@ a{
 .about{
     line-height: 20px;
 }
+
+.project_box>div>h2 {
+    color: rgb(71, 104, 201);
+}
+.project_box>div>a>b{
+    color: rgb(71, 104, 201);
+}
